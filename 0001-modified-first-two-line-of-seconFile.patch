@@ -1,0 +1,24 @@
+From 5ede86d35a174c6789c8a2558b83ea00e0bb06d4 Mon Sep 17 00:00:00 2001
+From: Sarvar <85160631+Abdivaliev@users.noreply.github.com>
+Date: Mon, 20 Nov 2023 18:25:10 +0500
+Subject: [PATCH] modified first two line of seconFile
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index f00c965..5102b40 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-1
+-2
++1 modified by git_1
++2 modified by git_1
+ 3
+ 4
+ 5
+-- 
+2.31.1.windows.1
+
